@@ -29,8 +29,8 @@ This project aims to replicate YouTube’s UI using only HTML and CSS, focusing 
 
 ## Project Structure  
   .
-├── youtube.html          # Main HTML file
-├── README.md              # Project documentation
+  ├── youtube.html          # Main HTML file
+  ├── README.md              # Project documentation
 ├── styles/                # CSS files
 ├── icons/                 # Icons used in the UI
 ├── thumbnails/            # Video thumbnail images
